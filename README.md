@@ -1,1 +1,1 @@
-# ---repo-org.qbittorrent.qbittorrent
+# org.qbittorrent.qbittorrent
